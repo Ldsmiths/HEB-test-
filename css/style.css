@@ -109,7 +109,7 @@ p {
 }
 
 .jumbotron{
-    background-image: url('Images/bakery-hero.jpg');
+    background-image: url('../images/bakery-2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
